@@ -1,5 +1,8 @@
-## Please check out my portfolio site
-### [Kevin Pitzer](https://kevinpitzer.com)
+## Check out my portfolio site:
+### [KevinPitzer.com](https://kevinpitzer.com)
+
+&nbsp;
+&nbsp;
 
 Credits:
 	template:
