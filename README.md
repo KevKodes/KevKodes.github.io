@@ -4,16 +4,16 @@
 &nbsp;
 &nbsp;
 
-Credits:
-	template:
+Credits:<br>
+- template:
 		html5up.net | @ajlkn
 
-	Demo Images:
+- Demo Images:
 		Unsplash (unsplash.com)
 
-	Icons:
+- Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
+- Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
