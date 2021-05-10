@@ -2584,7 +2584,13 @@ input, select, textarea {
 
 		.work-item .image {
 			margin: 0 0 1.5em 0;
+			/* height: 9.7em; */
+    	/* overflow: hidden; */
 		}
+
+		/* #project-image {
+			height: inherit;
+		} */
 
 		.work-item h3 {
 			font-size: 1em;
